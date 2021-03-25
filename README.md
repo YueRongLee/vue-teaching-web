@@ -1,2 +1,0 @@
-# MyOwnPlace
-bs test
